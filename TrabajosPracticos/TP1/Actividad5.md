@@ -8,7 +8,7 @@
 
       ![alt text](capture5.png)
 
- * Resolviendo el conflicto de código
+  * Resolviendo el conflicto de código
 
        ![alt text](capture6.png)
 
