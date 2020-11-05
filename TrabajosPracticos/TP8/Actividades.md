@@ -2,16 +2,19 @@
 
 ## PROS Y CONTRAS
 
-Las herramientas de integracion continua presentan multiples ventajas, como por ejemplo:
+Las herramientas de integracion continua presentan multiples **ventajas**, como por ejemplo:
 
 * Reducir la complejidad de proyectos largos: facilitan tareas de mantenimiento y actualización, automatizando la construccion del software en incrementos de menor tamano.
 * Las pruebas automatizadas reducen el tiempo empleado para la deteccion de errores.
 * Escalabilidad.
 
-Desventajas:
+**Desventajas:**
 
 * Las organizaciones que las implementen deberan confiar su proyecto y seguridad del mismo a tecnologias ajenas a ellas.
 * La posibilidad de usarlas dependen de su disponibilidad, llevando asi a cierta dependencia de la organizacion y la herramienta.
+
+
+Los .yml correspondientes a cada herramienta se encuentran en el [Repositorio Spring boot](https://github.com/CarolinaMisa/spring-boot-IS3)
 
 ## CONFIGURANDO AppVeyor
  
