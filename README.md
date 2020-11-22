@@ -9,3 +9,5 @@
   * Trabajo Práctico 6 - [Construcción de Imágenes de Docker](TrabajosPracticos/TP6)
   * Trabajo Práctico 7 - [Servidor de Build - de integración continua](TrabajosPracticos/TP7)
   * Trabajo Práctico 8 - [Herramientas de construcción de software en la nube](TrabajosPracticos/TP8)
+  * Trabajo Práctico 9 - [Pruebas de unidad](TrabajosPracticos/TP9)
+  * Trabajo Práctico 10 - [Pruebas de Integración](TrabajosPracticos/TP10)
