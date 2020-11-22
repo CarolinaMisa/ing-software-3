@@ -14,6 +14,7 @@ public class HelloWorldServiceTest {
 		assertEquals("Expected correct message","Spring boot says hello from a Docker container",helloWorldService.getHelloMessage());
 	}
 	
+	@Test
 	public void anotherTest() {
 		HelloWorldService mockFoo = mock(HelloWorldService.class);
 		
